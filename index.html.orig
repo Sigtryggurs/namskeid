@@ -57,7 +57,9 @@ SecretToEverything()
 <
 input
 type
-
+<<<<<<< HEAD
+="text"
+=======
 ="button"
 value
 ="What  else?"
@@ -65,6 +67,7 @@ onclick
 ="
 WhatElse()
 "
+>>>>>>> question_two
 />
 </
 body
